@@ -363,7 +363,7 @@ input.invalid, textarea.invalid { border-color: #c44747; }
   .footer-grid { grid-template-columns: 1fr; }
   .footer-about, .footer-grid > :last-child { grid-column: auto; }
   .footer-bottom .container { flex-direction: column; }
-  .quote-card { left: 12px; bottom: -25px; }
+  .quote-card { left: 6px; bottom: -25px; }
   .bank-header { flex-direction: column; }
   .impact-slide .image-placeholder { min-height: 230px; }
   .carousel-btn { width: 38px; height: 38px; font-size: 1.5rem; }
